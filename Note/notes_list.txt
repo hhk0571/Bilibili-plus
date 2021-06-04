@@ -1,0 +1,11 @@
+侯捷C++课程笔记01: 面向对象高级编程（上）
+https://blog.csdn.net/ncepu_Chen/article/details/113843775
+
+侯捷C++课程笔记02: 面向对象高级编程（下）
+https://blog.csdn.net/ncepu_Chen/article/details/114686488
+
+侯捷C++课程笔记03: STL标准库与泛型编程
+https://blog.csdn.net/ncepu_Chen/article/details/114947710
+
+侯捷C++课程笔记04: C++2.0新特性
+https://blog.csdn.net/ncepu_Chen/article/details/115375559
